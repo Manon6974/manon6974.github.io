@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300&family=Redressed&family=Righteous&display=swap');
+
+body{
+  font-family: "righteous";
+  background-color: #b68973
+}
+
+div {
+  border: 2px solid black;
+  margin: 40px;
+  padding: 50px;
+  border-radius: 16px;
+  text-align: center;
+  align-items: center;
+}
+
+h1 {
+	color: white;
+  text-align: center;
+}
+ 
+
+.hero{
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images.unsplash.com/photo-1602924097911-a78ca1af38c6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1018&q=80");
+  background-size: cover;
+
+}
+
+.exemple2 h1{
+  background-color: black;  
+}
+
+.btn{
+  background-color: #121013;
+  color: white;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+img {
+border-radius: 500px;
+}
